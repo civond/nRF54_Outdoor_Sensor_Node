@@ -1,0 +1,1 @@
+# nRF54_Outdoor_Sensor_Node
